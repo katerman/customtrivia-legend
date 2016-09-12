@@ -1,0 +1,11 @@
+{
+    "host": "Kevin",
+    "triviaName": "Random Trivia",
+    "questions": [{
+        "question": "What was this built using?",
+        "answer": "React and React-Legend"
+    }, {
+        "question": "Why was this built?",
+        "answer": "for fun!"
+    }]
+}

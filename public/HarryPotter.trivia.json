@@ -1,0 +1,184 @@
+{
+    "host": "Kristina",
+    "triviaName": "Harry Potter Trivia",
+    "questions": [{
+        "question": "What was the textbook called for Hagrid’s Care of Magical Creatures class?",
+        "answer": "The Monster Book of Monsters"
+    }, {
+        "question": "What was the first thing Harry caught on a broomstick?",
+        "answer": "Neville’s Rememberall"
+    }, {
+        "question": "How did the trio identify the correct key in the flying task guarding the Sorcerer’s Stone?",
+        "answer": "Its wing was crumpled"
+    }, {
+        "question": "How did Krum survive underwater during the second task?",
+        "answer": "He (poorly) transfigured his head into that of a shark’s"
+    }, {
+        "question": "Who is the Grey Lady?",
+        "answer": "Rowena Ravenclaw’s daughter – now Ravenclaw house ghost"
+    }, {
+        "question": "List the 7 horcruxes and how they were found by Harry?",
+        "answer": "Marvolo’s ring – in the snitch, Hufflepuff’s cup – in the Lestrange’s Gringotts vault, Ravenclaw’s diadem – in the room of requirement, Slytherin’s Locket – on Umbridge’s neck at the ministry,  Riddle’s diary – in Moaning Myrtle’s bathroom, Nagini – Hogwarts grounds, Harry himself - duh"
+    }, {
+        "question": "What was the inscription on the snitch Dumbledore left to Harry?",
+        "answer": "I open at the close"
+    }, {
+        "question": "Who was framed as the chamber of secrets monster?",
+        "answer": "Aragog"
+    }, {
+        "question": "Who was the only ghost teacher at Hogwarts and what subject did they teach?",
+        "answer": "Professor Binns – History of Magic"
+    }, {
+        "question": "Who was the first witch or wizard killed by Voldemort after his return?",
+        "answer": "Bertha Jorkins"
+    }, {
+        "question": "Who is the half blood prince and how did he get this moniker?",
+        "answer": "Snape – his mom was a witch with the last name Prince and his dad was a muggle"
+    }, {
+        "question": "List the Weasley kids in order of birth (twins count as one)",
+        "answer": "Bill, Charlie, Percy, Fred and George, Ron, Ginny"
+    }, {
+        "question": "How did Voldemort get his name?",
+        "answer": "By rearranging the letters in Tom Marvolo Riddle to form I am Lord Voldemort."
+    }, {
+        "question": "What type of car did Ron’s dad bewitch?",
+        "answer": "Ford Anglia"
+    }, {
+        "question": "For what crime did Barty Crouch Jr. and the Lestranges go to Azkaban?",
+        "answer": "For casting Crucio on the Longbottoms until they went crazy"
+    }, {
+        "question": "What Quidditch position did Fred and George play?",
+        "answer": "Beaters"
+    }, {
+        "question": "Who wrote the Marauder’s map (nickname and real name)?",
+        "answer": "Moony (Lupin), Wormtail (Pettigrew), Padfoot (Sirius), Prongs (James)"
+    }, {
+        "question": "How did death take the second brother?",
+        "answer": "He killed himself after living with a ghost of his wife"
+    }, {
+        "question": "Who owns the Hog’s head?",
+        "answer": "Aberforth Dumbledore"
+    }, {
+        "question": "From whom is James Potter descended?",
+        "answer": "The third Peverell brother"
+    }, {
+        "question": "How is Tonks related to the Lestranges and the Malfoys?",
+        "answer": "Her mother is the sister of Bellatrix and Narcissa"
+    }, {
+        "question": "What power does Tonks possess naturally which helps her as an auror?",
+        "answer": "She is a metamorphagus"
+    }, {
+        "question": "What type of Animagus is Professor McGonnagall  and what markings does it have?",
+        "answer": "Cat – spectacle markings around the eyes"
+    }, {
+        "question": "To whom did Hagrid’s flying motorcycle originally belong?",
+        "answer": "Sirius"
+    }, {
+        "question": "What is Ms. Figg?",
+        "answer": "A squib"
+    }, {
+        "question": "What store does Harry end up in after first traveling by the Floo network?",
+        "answer": "Borgin and Burke’s  in Knockturn Alley"
+    }, {
+        "question": "Who is set with the task of killing Dumbledore by Voldemort?",
+        "answer": "Malfoy"
+    }, {
+        "question": "What is the name of Hagrid’s pet dragon?",
+        "answer": "Norbert"
+    }, {
+        "question": "What type of creature does Hagrid illegally breed?",
+        "answer": "Blast-ended skrewts"
+    }, {
+        "question": "What happens to the gold the twins win from Bagman?",
+        "answer": "It is leprechaun gold so it disappears"
+    }, {
+        "question": "What item of clothing frees Dobby?",
+        "answer": "A sock"
+    }, {
+        "question": "How do you get into the Hogwarts kitchens?",
+        "answer": "Tickle the pear in a painting"
+    }, {
+        "question": "How would one enter the Chamber of Secrets?",
+        "answer": "Speak open in parseltongue in Moaning Myrtles bathroom at the sink"
+    }, {
+        "question": "What is Barty crouch senior’s corpse transfigured into?",
+        "answer": "A bone which is then buried on Hogwarts grounds"
+    }, {
+        "question": "Name the Defense Against the Dark Arts teachers in order?",
+        "answer": "Quirrel, Lockhart, Lupin, Mad eye/Barty Crouch jr, Umbridge, Snape, the Carrows"
+    }, {
+        "question": "Why is Justin Finch-Fletchley not killed when he looks upon the basalisk?",
+        "answer": "Because he saw it through Nearly Headless Nick"
+    }, {
+        "question": "Who did Harry think drove off the dementors at the end of the third book and who actually did?",
+        "answer": "His father/himself"
+    }, {
+        "question": "What was the biggest piece of Peter Pettigrew found after his “murder”?",
+        "answer": "A finger"
+    }, {
+        "question": "Who won the Quidditch World Cup Harry attended?",
+        "answer": "Ireland although Bulgaria caught the Snitch"
+    }, {
+        "question": "Fleur delacour is part human and part what?",
+        "answer": "Veela"
+    }, {
+        "question": "Harry is sent to a hearing at the ministry and almost expelled for casting which spell?",
+        "answer": "Expecto Patronum"
+    }, {
+        "question": "What habit did Voldemort have as a child after he tortured someone?",
+        "answer": "He took a trinket of theirs as a trophy"
+    }, {
+        "question": "Why did Voldemort think his father was the wizard while his mom was muggle?",
+        "answer": "Because his mother died"
+    }, {
+        "question": "What are Harry and Ginny’s kids names?",
+        "answer": "James, Lily and Albus Severus"
+    }, {
+        "question": "Why does Lockhart obliviate himself instead of Harry and Ron, his intended targets?",
+        "answer": "He used Ron’s wand which had been all but destroyed by the Whomping Willow"
+    }, {
+        "question": "What are Harry and Ginny’s kids names?",
+        "answer": "James, Lily and Albus Severus"
+    }, {
+        "question": "How would one get to the visitor’s entrance of the ministry of magic?",
+        "answer": "Via a broken telephone booth"
+    }, {
+        "question": "What type of animal can only be seen by those who have witnessed death?",
+        "answer": "Thestral"
+    }, {
+        "question": "How does the Minister of Magic visit the Muggle Prime Minister?",
+        "answer": "Through a portrait which cannot be removed in the Prime Minister’s office"
+    }, {
+        "question": "Which magazine does Luna’s father edit?",
+        "answer": "The Quibbler"
+    }, {
+        "question": "What is Dumbledore’s full name?",
+        "answer": "Albus Percival Wulfric Brian Dumbledore"
+    }, {
+        "question": "How do you get into the Ravenclaw common room?",
+        "answer": "By answering a riddle"
+    }, {
+        "question": "How is Sirius able to break into the Gryffindor common room?",
+        "answer": "Crookshanks brings him Neville’s list of passwords"
+    }, {
+        "question": "Who leads Harry to the sword of gryffindor in the last book?",
+        "answer": "Snape (via his doe patronus)"
+    }, {
+        "question": "Why can the sword of Gryffindor destroy a horcrux?",
+        "answer": "Harry unwittingly imbued it with basalisk venom"
+    }, {
+        "question": "Why are Harry and Voldemort’s wands linked?",
+        "answer": "They both contain a Phoenix feather from Fawkes"
+    }, {
+        "question": "Who else could the prophecy have been about?",
+        "answer": "Neville"
+    }, {
+        "question": "Who did Dumbledore beat to gain the loyalty of the Elder wand?",
+        "answer": "Grindewald"
+    }, {
+        "question": "Why does Voldemort lure harry to the Department of Mysteries?",
+        "answer": "Only the subject of a prophecy can touch it without going insane "
+
+
+    }]
+}

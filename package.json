@@ -1,0 +1,33 @@
+{
+  "name": "trivia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "build:dev": "watchify ./assets/main.jsx -o ./public/js/bundle.js -vd",
+    "release": "watchify ./assets/main.jsx -o ./public/js/bundle.js -v",
+    "less": "lessc /public/less/site.less /public/css/site.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.1",
+    "babel-preset-react": "^6.5.0",
+    "babelify": "^7.2.0",
+    "browser-http": "^4.0.2",
+    "browserify-fs": "^1.0.0",
+    "express": "^4.14.0",
+    "randomcolor": "^0.4.4",
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1",
+    "react-legend": "^1.0.1",
+    "read-file": "^0.2.0"
+  },
+  "browserify": {
+    "transform": [
+      "babelify"
+    ]
+  }
+}
